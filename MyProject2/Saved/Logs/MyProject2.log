@@ -361,3 +361,34 @@ LogInit: Object subsystem initialized
 [2018.01.02-16.19.40:691][936]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Saved/NewWorld8D41909A4236B53A4EF474A1FE85639E.tmp' to '../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Content/NewWorld.umap'
 [2018.01.02-16.19.40:693][936]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Content/NewWorld.umap
 [2018.01.02-16.19.40:694][936]LogFileHelpers: Saving map 'NewWorld' took 0.121
+[2018.01.02-16.28.39:807][330]SourceControl: On branch master
+[2018.01.02-16.28.39:807][330]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.01.02-16.28.39:807][330]SourceControl: nothing to commit, working tree clean
+[2018.01.02-16.29.07:121][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld2" FILE="../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Content/NewWorld2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.02-16.29.07:177][893]LogSavePackage: Save=12.49ms
+[2018.01.02-16.29.07:177][893]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Saved/NewWorld236EF00BA433B337820B9A8BB2F89EBD1.tmp' to '../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Content/NewWorld2.umap'
+[2018.01.02-16.29.07:179][893]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Content/NewWorld2.umap
+[2018.01.02-16.29.07:810][893]LogFileHelpers: Saving map 'NewWorld2' took 0.760
+[2018.01.02-16.29.07:905][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld1" FILE="../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Content/NewWorld1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.02-16.29.07:952][893]LogSavePackage: Save=11.95ms
+[2018.01.02-16.29.07:952][893]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Saved/NewWorld1129E4B764B8FBA170247138B9A01B7AA.tmp' to '../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Content/NewWorld1.umap'
+[2018.01.02-16.29.07:957][893]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/TestingGitHub/Test/MyProject2/Content/NewWorld1.umap
+[2018.01.02-16.29.08:384][893]LogFileHelpers: Saving map 'NewWorld1' took 0.545
+[2018.01.02-16.32.27:232][387]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject2
+[2018.01.02-16.32.27:233][387]LogTemp: CWD: D:\UnrealEngine\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.02-16.32.27:233][387]LogTemp: Initial Dir: D:\UnrealEngine\UE_4.18
+[2018.01.02-16.32.27:233][387]LogTemp: Env CWD: D:\UnrealEngine\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.02-16.32.27:233][387]LogTemp: BranchPath = DESKTOP-1UO1QLN/D/UnrealEngine/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-1UO1QLN/D/UnrealEngine/UE_4.18/Engine/Binaries
+[2018.01.02-16.32.27:233][387]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Delfin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.02-16.32.27:233][387]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.02-16.34.21:351][100]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.02-16.34.21:410][100]SourceControl: [master 3becfb6] 1
+[2018.01.02-16.34.21:410][100]SourceControl:  1 file changed, 3 insertions(+)
+[2018.01.02-16.34.21:410][100]SourceControl:  create mode 100644 MyProject2/Content/NewWorld1.umap
+[2018.01.02-16.34.21:448][100]SourceControl: Commited [master 3becfb6] 1.
+[2018.01.02-16.34.28:984][225]SourceControl: fatal: D:/UnrealEngine/UE_4.18/Engine/Content/: 'D:/UnrealEngine/UE_4.18/Engine/Content/' is outside repository
+[2018.01.02-16.34.33:736][225]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.02-16.34.33:814][225]SourceControl: [master 9065c30] 2
+[2018.01.02-16.34.33:814][225]SourceControl:  1 file changed, 3 insertions(+)
+[2018.01.02-16.34.33:814][225]SourceControl:  create mode 100644 MyProject2/Content/NewWorld2.umap
+[2018.01.02-16.34.33:847][225]SourceControl: Commited [master 9065c30] 2.
